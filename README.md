@@ -26,7 +26,7 @@ This project provides a comprehensive analysis of bank loan performance, interes
 ## Power BI Dashboard
 
 ### Page 1 – Financial Overview
-![Power BI Overview](screenshots/powerbi_overview.png)
+![Power BI Overview](Screenshots/powerbi_overview.png)
 
 ### Page 2 – Customer Demographics
 ![Power BI Details](screenshots/powerbi_details.png)
