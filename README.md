@@ -23,16 +23,10 @@ This project provides a comprehensive analysis of bank loan performance, interes
 - **Gender Distribution:** Female customers account for a significantly higher portion of the loan amount compared to male customers.
 - **Purpose:** Loan utilization is highest in the Services and Mobile Phones categories.
 
-## Power BI Dashboard
+### Power BI Dashboards
+- [📂 View Power BI Overview Screenshot](screenshots/powerbi_overview.png)
+- [📂 View Power BI Loan Details Screenshot](screenshots/powerbi_details.png)
+- [📂 View Power BI Funded Amount Analysis](screenshots/powerbi_funded_analysis.png)
 
-### Page 1 – Financial Overview
-![Power BI Overview](Screenshots/powerbi_overview.png)
-
-### Page 2 – Customer Demographics
-![Power BI Details](screenshots/powerbi_details.png)
-
-### Page 3 – Interest Rate & Grade Analysis
-![Power BI Analysis](screenshots/powerbi_funded_analysis.png)
-
-## Tableau Dashboard
-![Tableau Dashboard](screenshots/tableau_dashboard.png)
+### Tableau Dashboards
+- [📂 View Tableau Dashboard Screenshot](screenshots/tableau_dashboard.png)
