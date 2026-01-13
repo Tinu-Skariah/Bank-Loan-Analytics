@@ -24,9 +24,12 @@ This project provides a comprehensive analysis of bank loan performance, interes
 - **Purpose:** Loan utilization is highest in the Services and Mobile Phones categories.
 
 ### Power BI Dashboards
-- [📂 View Power BI Overview Screenshot](screenshots/powerbi_overview.png)
-- [📂 View Power BI Loan Details Screenshot](screenshots/powerbi_details.png)
-- [📂 View Power BI Funded Amount Analysis](screenshots/powerbi_funded_analysis.png)
+- [📂 View Power BI Overview Screenshot](Screenshots/powerbi_overview.png)
+- [📂 View Power BI Loan Details Screenshot](Screenshots/powerbi_details.png)
+- [📂 View Power BI Funded Amount Analysis](Screenshots/powerbi_funded_analysis.png)
 
 ### Tableau Dashboards
-- [📂 View Tableau Dashboard Screenshot](screenshots/tableau_dashboard.png)
+- [📂 View Tableau Dashboard Screenshot](Screenshots/tableau_dashboard.png)
+
+### Excel Dashboards
+- [📂 View Data Dashboard Screenshot](Screenshots/Excel.png)
